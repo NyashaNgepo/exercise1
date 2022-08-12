@@ -12,3 +12,14 @@ p{
     border: 2px solid #040804;
     background-color:  #4089c5;
 }
+
+#para1{
+    background-color: white;
+}
+span{
+    border:2px #040804;
+    background-color: lightgray;
+}
+a{
+    border: 2px #006600;
+}
